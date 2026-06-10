@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Villodres Romero
 
-🎯 **Data Analyst Junior** | SQL · Python · Power BI · Tableau
+🎯 **Data Analyst Junior** | SQL · Python · Power BI · Tableau · ML
 
 📍 Málaga, Andalucía · 📩 alejandrovillodres.job@gmail.com
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo de los sistemas e infraestructura (ASIR, experiencia con Docker y CI/CD), lo que me da una visión más completa del entorno donde viven los datos. Actualmente busco mi primera oportunidad como **Data Analyst Junior**, donde aplicar mis conocimientos en SQL, Python y Power BI para ayudar a las empresas a tomar mejores decisiones.
+Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo de los sistemas e infraestructura (ASIR, experiencia con Docker y CI/CD), lo que me da una visión más completa del entorno donde viven los datos. Actualmente busco mi primera oportunidad como **Data Analyst Junior**, donde aplicar mis conocimientos en SQL, Python, Power BI, Tableau y Machine Learning para ayudar a las empresas a tomar mejores decisiones.
 
 ---
 
@@ -19,6 +19,12 @@ Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo 
 - 🗄️ SQL (SQL Server, T-SQL avanzado: CTEs, Window Functions, subconsultas)
 - 📊 Power BI · Tableau
 - 📗 Excel Avanzado · Microsoft Office Specialist: Excel Expert *(certificado)*
+
+**Machine Learning e IA**
+- Regresión Lineal y Logística
+- Clustering, Árboles de Decisión, Naive Bayes
+- Redes Neuronales (MLP, RNN)
+- Scikit-learn · TensorFlow
 
 **Otras herramientas técnicas**
 - 🐳 Docker · Docker Compose · GitLab CI/CD
