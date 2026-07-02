@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Villodres Romero
 
-🎯 **Data Analyst Junior** | SQL · Python · Power BI · Tableau · ML
+🎯 **Data Analyst Junior** | SQL · Python · Power BI · Tableau · Machine Learning
 
 📍 Málaga, Andalucía · 📩 alejandrovillodres.job@gmail.com
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 
-Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo de los sistemas e infraestructura (ASIR, experiencia con Docker y CI/CD), lo que me da una visión más completa del entorno donde viven los datos. Actualmente busco mi primera oportunidad como **Data Analyst Junior**, donde aplicar mis conocimientos en SQL, Python, Power BI, Tableau y Machine Learning para ayudar a las empresas a tomar mejores decisiones.
+Soy un Junior Data Analyst con formación en Administración de Sistemas (ASIR) y especialización en Análisis de Datos. Me interesa transformar datos en información útil para apoyar la toma de decisiones mediante SQL, Python, Power BI y Machine Learning. Mi experiencia previa en sistemas, Docker y Linux me proporciona una visión técnica que complementa el análisis de datos.
 
 ---
 
@@ -24,7 +24,7 @@ Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo 
 - Regresión Lineal y Logística
 - Clustering, Árboles de Decisión, Naive Bayes
 - Redes Neuronales (MLP, RNN)
-- Scikit-learn · TensorFlow
+- Scikit-learn
 
 **Otras herramientas técnicas**
 - 🐳 Docker · Docker Compose · GitLab CI/CD
@@ -37,7 +37,7 @@ Soy una persona con perfil técnico y curiosidad por los datos. Vengo del mundo 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
 | 🔍 [Análisis Comercial con SQL Server](https://github.com/VR-Alejandro/analisis-comercial-sql) | Análisis de ventas, clientes, productos y equipo comercial sobre AdventureWorks2025 | SQL Server · CTEs · Window Functions |
-| 🏙️ Análisis de Criminalidad en Chicago 2020-2025 | Proyecto fin de bootcamp *(en curso)* | Python · SQL · Power BI |
+| 🏙️ [Chicago Crime Analysis](https://github.com/VR-Alejandro/chicago-crime-analysis) | Limpieza de más de 1 millón de registros, análisis exploratorio, entrenamiento de un modelo Random Forest y desarrollo de un dashboard interactivo para visualizar predicciones por Community Area. | Python · SQL · Power BI · Scikit-learn |
 
 > 🔨 Portfolio en construcción — nuevos proyectos añadiéndose próximamente
 
