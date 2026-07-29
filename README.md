@@ -99,6 +99,26 @@ SQL Server • T-SQL
 
 ---
 
+## 🧹 Dataset Cleaner
+
+A local-first web application that automatically cleans, validates and profiles CSV and Excel datasets.
+
+### Technologies
+
+Python • FastAPI • SQLite • Pandas • HTML • CSS • JavaScript
+
+### Highlights
+
+- Automatic data profiling
+- Missing value imputation
+- Duplicate detection
+- CSV & Excel support
+- Interactive web interface
+- Session isolation using UUID
+- JSON report generation
+
+👉 **Repository:** *[(Link)](https://github.com/VR-Alejandro/dataset-cleaner)*
+
 # 🎯 Currently Learning
 
 - Data Science
