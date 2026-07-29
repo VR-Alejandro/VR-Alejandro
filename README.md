@@ -1,58 +1,140 @@
-# 👋 ¡Hola! Soy Alejandro Villodres Romero
+# 👋 Hi, I'm Alejandro Villodres Romero
 
-🎯 **Data Analyst Junior** | SQL · Python · Power BI · Tableau · Machine Learning
+## Junior Data Analyst | SQL • Python • Power BI • Machine Learning
 
-📍 Málaga, Andalucía · 📩 alejandrovillodres.job@gmail.com
-
----
-
-## 🚀 Sobre mí
-
-Soy un Junior Data Analyst con formación en Administración de Sistemas (ASIR) y especialización en Análisis de Datos. Me interesa transformar datos en información útil para apoyar la toma de decisiones mediante SQL, Python, Power BI y Machine Learning. Mi experiencia previa en sistemas, Docker y Linux me proporciona una visión técnica que complementa el análisis de datos.
+📍 Málaga, Spain  
+📧 alejandrovillodres.job@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/alejandro-villodres-romero/)  
+💻 [Portfolio](https://github.com/VR-Alejandro)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🚀 About Me
 
-**Análisis y visualización de datos**
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🗄️ SQL (SQL Server, T-SQL avanzado: CTEs, Window Functions, subconsultas)
-- 📊 Power BI · Tableau
-- 📗 Excel Avanzado · Microsoft Office Specialist: Excel Expert *(certificado)*
+I'm a Junior Data Analyst passionate about transforming raw data into valuable business insights.
 
-**Machine Learning e IA**
-- Regresión Lineal y Logística
-- Clustering, Árboles de Decisión, Naive Bayes
-- Redes Neuronales (MLP, RNN)
+My background combines a Higher Vocational Diploma in Network Systems Administration (ASIR) with specialized training in Data Analytics, giving me a solid understanding of both data analysis and the technical infrastructure behind it.
+
+I enjoy working with SQL, Python and Power BI to clean, analyze and visualize data, helping organizations make better data-driven decisions.
+
+I'm currently expanding my skills through a **Master's Degree in Data Science & Artificial Intelligence**, while continuously developing new portfolio projects.
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming & Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- SQL Server (T-SQL)
 - Scikit-learn
 
-**Otras herramientas técnicas**
-- 🐳 Docker · Docker Compose · GitLab CI/CD
-- 🐧 Linux · Git · GitHub
+### Data Visualization
+
+- Power BI
+- Tableau
+- Microsoft Excel (MOS Excel Expert)
+
+### Machine Learning
+
+- Linear Regression
+- Logistic Regression
+- Random Forest
+- Decision Trees
+- Clustering
+- Neural Networks
+
+### Other Technologies
+
+- Git
+- GitHub
+- Docker
+- Docker Compose
+- Linux
+- GitLab CI/CD
 
 ---
 
-## 📂 Proyectos
+# 📂 Featured Projects
 
-| Proyecto | Descripción | Herramientas |
-|----------|-------------|--------------|
-| 🔍 [Análisis Comercial con SQL Server](https://github.com/VR-Alejandro/analisis-comercial-sql) | Análisis de ventas, clientes, productos y equipo comercial sobre AdventureWorks2025 | SQL Server · CTEs · Window Functions |
-| 🏙️ [Chicago Crime Analysis](https://github.com/VR-Alejandro/chicago-crime-analysis) | Limpieza de más de 1 millón de registros, análisis exploratorio, entrenamiento de un modelo Random Forest y desarrollo de un dashboard interactivo para visualizar predicciones por Community Area. | Python · SQL · Power BI · Scikit-learn |
+## 🏙️ Chicago Crime Prediction
 
-> 🔨 Portfolio en construcción — nuevos proyectos añadiéndose próximamente
+Machine Learning project using more than **1 million crime records** to predict crime levels by Community Area.
+
+### Technologies
+
+Python • SQL • Power BI • Random Forest • Scikit-learn
+
+### Highlights
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Feature Engineering
+- Random Forest Model
+- Interactive Power BI Dashboard
+
+👉 **Repository:** *[(Link)](https://github.com/VR-Alejandro/chicago-crime-analysis)*
 
 ---
 
-## 🎓 Formación y certificaciones
+## 📈 Sales Analysis with SQL Server
 
-- 📘 **Bootcamp Análisis de Datos** — Neoland *(2026)*
-- 🖥️ **CFGS Administración de Sistemas Informáticos en Red** — Cesur *(2023-2025)*
-- ✅ **Microsoft Office Specialist: Excel Expert** — Microsoft *(2026)*
-- 🇬🇧 **Cambridge B1** — Cambridge *(2025)*
+Business Intelligence project based on the AdventureWorks2025 database.
+
+### Technologies
+
+SQL Server • T-SQL
+
+### Highlights
+
+- Advanced SQL Queries
+- CTEs
+- Window Functions
+- Customer Segmentation
+- Sales Performance Analysis
+
+👉 **Repository:** *[(Link)](https://github.com/VR-Alejandro/analisis-comercial-sql)*
 
 ---
 
-## 📬 Contacto
+# 🎯 Currently Learning
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/Alejandro-Villodres-Romero)
-- 📧 alejandrovillodres.job@gmail.com
+- Data Science
+- Artificial Intelligence
+- Advanced Machine Learning
+- Data Engineering
+- Cloud Technologies
+
+---
+
+# 🎓 Education
+
+**Master's Degree in Data Science & Artificial Intelligence** *(In Progress)*
+
+**Data Analytics Bootcamp — Neoland**
+
+**Higher Vocational Diploma in Network Systems Administration (ASIR)**
+
+---
+
+# 📜 Certifications
+
+- Microsoft Office Specialist: Excel Expert (MO-211)
+- Cambridge English B1
+
+---
+
+# 🤝 Let's Connect
+
+I'm currently looking for opportunities as:
+
+- Junior Data Analyst
+- BI Analyst
+- Junior Data Scientist
+- Data Consultant
+
+If you'd like to collaborate or discuss opportunities, feel free to reach out.
+
+📧 **alejandrovillodres.job@gmail.com**
